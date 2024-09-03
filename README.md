@@ -1,1 +1,4 @@
-# Space-Runner
+Space Runner
+- Developed a 2D side-scrolling game with progressively challenging levels, inspired by Jetpack Joyride, using Java. Implemented dynamic level generation, collectible management, and player progression systems to create engaging gameplay.
+● Utilized data structures and algorithms to manage game elements, such as obstacles and coins, and applied object-oriented programming principles for modular and efficient code organization.- Developed a 2D side-scrolling game with progressively challenging levels, inspired by Jetpack Joyride, using Java. Implemented dynamic level generation, collectible management, and player progression systems to create engaging gameplay. ● Utilized data structures and algorithms to manage game elements, such as obstacles and coins, and applied object-oriented programming principles for modular and efficient code organization.
+Skills: Java · Game Development · Level Design · Data Structures · Object-Oriented Programming (OOP) · Software Development · Project Management
