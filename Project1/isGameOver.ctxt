@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=isGameOver
+comment1.params=won\ score
+comment1.target=isGameOver(java.lang.Boolean,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

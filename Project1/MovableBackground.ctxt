@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MovableBackground
+comment1.params=maxX\ speed
+comment1.target=MovableBackground(int,\ int)
+comment2.params=
+comment2.target=int\ getSpeed()
+comment3.params=s
+comment3.target=void\ setSpeed(int)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

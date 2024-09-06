@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=
+comment1.target=Character()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=amount
+comment3.target=void\ increaseScore(int)
+comment4.params=Amount
+comment4.target=void\ decreaseLives(int)
+comment5.params=
+comment5.target=void\ resetLives()
+comment6.params=
+comment6.target=java.lang.Boolean\ isVolnerable()
+comment7.params=
+comment7.target=int\ getScore()
+comment8.params=
+comment8.target=int\ getLives()
+numComments=9

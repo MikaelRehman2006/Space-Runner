@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Zapper
+comment1.params=rotationRate
+comment1.target=Zapper(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
